@@ -1,0 +1,237 @@
+<!doctype html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Grawl Tower Defense – Politique de confidentialité / Privacy Policy</title>
+  <style>
+    :root { color-scheme: light dark; }
+    body { font-family: system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif; line-height: 1.55; margin: 0; }
+    main { max-width: 900px; margin: 0 auto; padding: 24px 16px; }
+    h1 { font-size: 1.8rem; margin: 0 0 8px; }
+    h2 { margin-top: 28px; font-size: 1.25rem; }
+    h3 { margin-top: 18px; font-size: 1.05rem; }
+    .meta { opacity: .8; margin: 0 0 18px; }
+    .langbar { display: flex; gap: 10px; margin: 10px 0 18px; flex-wrap: wrap; }
+    .pill {
+      display: inline-block; padding: 6px 10px; border-radius: 999px;
+      border: 1px solid rgba(127,127,127,.35); text-decoration: none;
+    }
+    .box { border: 1px solid rgba(127,127,127,.35); border-radius: 12px; padding: 14px; margin: 14px 0; }
+    ul { margin: 8px 0 8px 22px; }
+    a { word-break: break-word; }
+    footer { margin-top: 28px; opacity: .75; font-size: .95rem; }
+  </style>
+</head>
+
+<body>
+<main>
+  <h1>Grawl Tower Defense – Politique de confidentialité</h1>
+  <p class="meta">Dernière mise à jour : <strong>03/03/2026</strong></p>
+
+  <div class="langbar">
+    <a class="pill" href="#fr">🇫🇷 Français</a>
+    <a class="pill" href="#en">🇬🇧 English</a>
+  </div>
+
+  <!-- ===================== FR ===================== -->
+  <section id="fr" class="box">
+    <h2>1. Introduction</h2>
+    <p>Cette application est un jeu mobile développé par <strong>3cthspixelgame</strong>. Nous respectons votre vie privée et nous engageons à protéger vos données.</p>
+    <p>Cette application <strong>ne collecte aucune donnée personnelle directement</strong>. Cependant, certains services tiers intégrés peuvent collecter des données afin de&nbsp;:</p>
+    <ul>
+      <li>Afficher des publicités</li>
+      <li>Traiter des achats intégrés</li>
+      <li>Fournir des services analytiques ou techniques</li>
+    </ul>
+
+    <h2>2. Données collectées</h2>
+    <p>Nous ne collectons pas&nbsp;:</p>
+    <ul>
+      <li>Nom</li>
+      <li>Email</li>
+      <li>Adresse</li>
+      <li>Contacts</li>
+      <li>Photos</li>
+      <li>Données sensibles</li>
+    </ul>
+
+    <p>Données susceptibles d’être collectées par des services tiers&nbsp;:</p>
+    <ul>
+      <li>Identifiant publicitaire (Advertising ID)</li>
+      <li>Données d’utilisation de l’application</li>
+      <li>Données de performance</li>
+      <li>Localisation approximative</li>
+      <li>Informations liées aux achats intégrés</li>
+    </ul>
+
+    <p>Ces données sont collectées directement par les fournisseurs tiers et <strong>ne sont pas accessibles par nous</strong>.</p>
+
+    <h2>3. Services tiers utilisés</h2>
+
+    <h3>Google AdMob (Publicités)</h3>
+    <p>Cette application utilise <strong>Google AdMob</strong> pour afficher des publicités.</p>
+    <p>Google peut collecter&nbsp;:</p>
+    <ul>
+      <li>Identifiants publicitaires</li>
+      <li>Cookies</li>
+      <li>Adresse IP</li>
+      <li>Données d’interaction publicitaire</li>
+      <li>Localisation approximative</li>
+    </ul>
+    <p>Les annonces peuvent être personnalisées selon votre consentement.</p>
+    <p>Politique de confidentialité Google&nbsp;: <a href="https://policies.google.com/privacy" rel="noopener noreferrer">https://policies.google.com/privacy</a></p>
+
+    <h3>Google Play Billing (Achats intégrés)</h3>
+    <p>Les achats intégrés sont gérés via <strong>Google Play Billing</strong>.</p>
+    <p>Google traite les paiements et les informations associées. Nous n’avons <strong>aucun accès</strong> aux informations bancaires ou de paiement.</p>
+    <p>Politique Google&nbsp;: <a href="https://policies.google.com/privacy" rel="noopener noreferrer">https://policies.google.com/privacy</a></p>
+
+    <h3>Google Play Games (si activé)</h3>
+    <p>Si la synchronisation Google Play Games est activée, les éléments suivants peuvent être traités par Google&nbsp;:</p>
+    <ul>
+      <li>Pseudonyme</li>
+      <li>ID joueur</li>
+      <li>Succès</li>
+      <li>Sauvegardes cloud</li>
+    </ul>
+
+    <h2>4. Consentement (CMP – Conformité RGPD)</h2>
+    <p>Si vous êtes situé dans l’Espace Économique Européen (EEE), au Royaume-Uni ou en Suisse&nbsp;:</p>
+    <ul>
+      <li>Une demande de consentement (CMP conforme IAB TCF v2) vous sera présentée.</li>
+      <li>Vous pourrez accepter ou refuser les publicités personnalisées.</li>
+      <li>Vous pourrez modifier vos choix à tout moment via les paramètres du jeu.</li>
+    </ul>
+
+    <h2>5. Conservation des données</h2>
+    <p>Nous ne stockons aucune donnée personnelle sur nos serveurs.</p>
+    <p>Les données éventuellement collectées par Google sont conservées selon leurs propres politiques.</p>
+
+    <h2>6. Sécurité</h2>
+    <p>Nous ne manipulons aucune donnée sensible. Les services tiers utilisés appliquent leurs propres standards de sécurité.</p>
+
+    <h2>7. Enfants</h2>
+    <p>Cette application n’est pas spécifiquement destinée aux enfants de moins de 13 ans. Nous ne collectons pas sciemment de données personnelles concernant des enfants.</p>
+
+    <h2>8. Vos droits</h2>
+    <p>Selon votre pays, vous pouvez disposer des droits suivants&nbsp;:</p>
+    <ul>
+      <li>Accès aux données</li>
+      <li>Suppression des données</li>
+      <li>Limitation du traitement</li>
+      <li>Opposition au traitement</li>
+    </ul>
+    <p>Pour exercer ces droits concernant les données collectées par Google, veuillez consulter directement leurs politiques.</p>
+
+    <h2>9. Contact</h2>
+    <p>Pour toute question concernant cette politique&nbsp;:<br />
+      📧 <a href="mailto:cccthspixelgame@gmail.com">cccthspixelgame@gmail.com</a>
+    </p>
+  </section>
+
+  <!-- ===================== EN ===================== -->
+  <section id="en" class="box">
+    <h2>🇬🇧 Privacy Policy</h2>
+    <p class="meta">Last updated: <strong>03/03/2026</strong></p>
+
+    <h2>1. Introduction</h2>
+    <p>This mobile game is developed by <strong>3cthspixelgame</strong>. We respect your privacy and are committed to protecting your data.</p>
+    <p>This application <strong>does not directly collect personal data</strong>. However, integrated third-party services may collect data in order to:</p>
+    <ul>
+      <li>Display advertisements</li>
+      <li>Process in-app purchases</li>
+      <li>Provide technical or analytics services</li>
+    </ul>
+
+    <h2>2. Data Collection</h2>
+    <p>We do not collect:</p>
+    <ul>
+      <li>Name</li>
+      <li>Email address</li>
+      <li>Physical address</li>
+      <li>Contacts</li>
+      <li>Photos</li>
+      <li>Sensitive data</li>
+    </ul>
+
+    <p>Data that may be collected by third parties:</p>
+    <ul>
+      <li>Advertising ID</li>
+      <li>App usage data</li>
+      <li>Performance data</li>
+      <li>Approximate location</li>
+      <li>In-app purchase information</li>
+    </ul>
+
+    <p>This data is collected directly by third-party providers and is <strong>not accessible to us</strong>.</p>
+
+    <h2>3. Third-Party Services</h2>
+
+    <h3>Google AdMob (Advertising)</h3>
+    <p>This app uses <strong>Google AdMob</strong> to display ads.</p>
+    <p>Google may collect:</p>
+    <ul>
+      <li>Advertising identifiers</li>
+      <li>Cookies</li>
+      <li>IP address</li>
+      <li>Ad interaction data</li>
+      <li>Approximate location</li>
+    </ul>
+    <p>Ads may be personalized based on user consent.</p>
+    <p>Google Privacy Policy: <a href="https://policies.google.com/privacy" rel="noopener noreferrer">https://policies.google.com/privacy</a></p>
+
+    <h3>Google Play Billing (In-App Purchases)</h3>
+    <p>In-app purchases are processed via <strong>Google Play Billing</strong>.</p>
+    <p>Google handles payment processing and related information. We do <strong>not</strong> have access to payment details.</p>
+    <p>Google Privacy Policy: <a href="https://policies.google.com/privacy" rel="noopener noreferrer">https://policies.google.com/privacy</a></p>
+
+    <h3>Google Play Games (if enabled)</h3>
+    <p>If Google Play Games sync is enabled, the following may be processed by Google:</p>
+    <ul>
+      <li>Player ID</li>
+      <li>Nickname</li>
+      <li>Achievements</li>
+      <li>Cloud saves</li>
+    </ul>
+
+    <h2>4. Consent (GDPR Compliance)</h2>
+    <p>If you are located in the European Economic Area (EEA), the UK, or Switzerland:</p>
+    <ul>
+      <li>A consent form (IAB TCF v2 compliant CMP) will be displayed.</li>
+      <li>You may accept or refuse personalized ads.</li>
+      <li>You can modify your choices at any time via in-game settings.</li>
+    </ul>
+
+    <h2>5. Data Retention</h2>
+    <p>We do not store personal data on our servers.</p>
+    <p>Any data collected by Google is handled according to their own policies.</p>
+
+    <h2>6. Security</h2>
+    <p>We do not process sensitive personal data. Third-party services apply their own security standards.</p>
+
+    <h2>7. Children</h2>
+    <p>This application is not specifically directed at children under 13. We do not knowingly collect personal data from children.</p>
+
+    <h2>8. Your Rights</h2>
+    <p>Depending on your country, you may have the right to:</p>
+    <ul>
+      <li>Access your data</li>
+      <li>Request deletion</li>
+      <li>Restrict processing</li>
+      <li>Object to processing</li>
+    </ul>
+    <p>For data handled by Google, please refer to their privacy policy.</p>
+
+    <h2>9. Contact</h2>
+    <p>For any questions regarding this policy:<br />
+      📧 <a href="mailto:cccthspixelgame@gmail.com">cccthspixelgame@gmail.com</a>
+    </p>
+  </section>
+
+  <footer>
+    <p><a href="#fr">⬆︎ Retour au début (FR)</a> · <a href="#en">Back to top (EN)</a></p>
+  </footer>
+</main>
+</body>
+</html>
